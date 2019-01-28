@@ -3,7 +3,7 @@ This project is telling about how to use angular 7 as simple
 - How to use `component, pipe, routes, class, service (global and local)` on angular 7.
 - How to use json link with angular 7.
 - How to use `ngModel ngIf and else, foreach, (mouseover), (click)` on angular 7.
-A few json link from the bottom link was used this project.
+- A few json link from the bottom link was used this project.
 ``` 
 https://jsonplaceholder.typicode.com/
 ``` 
