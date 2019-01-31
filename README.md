@@ -24,4 +24,3 @@ You had better to do steps in ordering
 [![Alt text](https://i.ytimg.com/vi/wZ4AIk5YqqM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC4jTb3UCkmUxECXlMXUJIZ5blX4w)](https://www.youtube.com/watch?v=wZ4AIk5YqqM&t=3s)
 
 Youtube lin is here. [![Watch the video](https://www.youtube.com/watch?v=wZ4AIk5YqqM&t=3s)](https://www.youtube.com/watch?v=wZ4AIk5YqqM&t=3s)
-https://www.youtube.com/watch?v=wZ4AIk5YqqM&t=3s
