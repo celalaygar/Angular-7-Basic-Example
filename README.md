@@ -21,3 +21,7 @@ You had better to do steps in ordering
 - write `ng serve --port {port number} --open` or `ng serve --port 5422 -o` on cmd.
 - if you write `ng serve --port {port number}`, you have to open any browser and write `localhost:purtnumber/` search section on the browser
 
+[![Alt text](https://i.ytimg.com/vi/wZ4AIk5YqqM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC4jTb3UCkmUxECXlMXUJIZ5blX4w)](https://www.youtube.com/watch?v=wZ4AIk5YqqM&t=3s)
+
+
+https://www.youtube.com/watch?v=wZ4AIk5YqqM&t=3s
