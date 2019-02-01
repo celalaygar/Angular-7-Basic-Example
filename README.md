@@ -2,6 +2,7 @@
 This project is telling about how to use angular 7 as simple
 - How to use `component, pipe, routes, class, service (global and local)` on angular 7.
 - How to use json link with angular 7 and to get data as list from json link.
+- How to use bootstrap 4 with Angular 7.
 - How to use `ngModel ngIf and else, ngFor, (mouseover), (click)` on angular 7.
 
 [![Alt text](https://i.ytimg.com/vi/wZ4AIk5YqqM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC4jTb3UCkmUxECXlMXUJIZ5blX4w)](https://www.youtube.com/watch?v=wZ4AIk5YqqM&t=3s)
