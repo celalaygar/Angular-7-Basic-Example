@@ -7,7 +7,7 @@ This project is telling about how to use angular 7 as simple
 
 [![Alt text](https://i.ytimg.com/vi/wZ4AIk5YqqM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC4jTb3UCkmUxECXlMXUJIZ5blX4w)](https://www.youtube.com/watch?v=wZ4AIk5YqqM&t=3s)
 
-- Youtube lin is here. [![Watch the video](https://www.youtube.com/watch?v=wZ4AIk5YqqM&t=3s)](https://www.youtube.com/watch?v=wZ4AIk5YqqM&t=3s)
+- Youtube link is here. [![Watch the video](https://www.youtube.com/watch?v=wZ4AIk5YqqM&t=3s)](https://www.youtube.com/watch?v=wZ4AIk5YqqM&t=3s)
 - A few json link from the bottom link was used this project.
 ``` 
 https://jsonplaceholder.typicode.com/
